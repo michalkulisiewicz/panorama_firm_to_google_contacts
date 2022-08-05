@@ -7,7 +7,7 @@ imported to Google Contacts, creating contact for each scraped entry.
 ## Installation
 Use git clone to get the library
 ```shell
-git clone git@github.com:michalkulisiewicz/panorama_firm_to_google_contacts.git
+git clone https://github.com/michalkulisiewicz/panorama_firm_to_google_contacts.git
 ```
 Install all requirements using pip
 ```shell
